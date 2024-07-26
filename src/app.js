@@ -29,4 +29,3 @@ window.onload = cardGenerator;
 setInterval(cardGenerator, 10000);
 
 document.getElementById("newCard").addEventListener("click", cardGenerator);
-git;
