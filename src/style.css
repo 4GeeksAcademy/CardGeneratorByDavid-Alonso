@@ -1,1 +1,31 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  background-color: rgb(229, 220, 220);
+  border-radius: 20px;
+  width: 150px;
+  height: 400px;
+  margin-top: 60px;
+}
+h1 {
+  font-size: 250px;
+}
+.carta {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  line-height: 300px;
+}
+.divbottom {
+  transform: rotate(180deg);
+  display: flex;
+}
+h2 {
+  font-size: 50px;
+}
+
+/* div {
+  border: 1px solid black;
+} */
